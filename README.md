@@ -1,2 +1,2 @@
-# QR-Code-using-pyhton
+# QR-Code-using-python
 A quick QR Code using Python
